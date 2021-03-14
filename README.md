@@ -1,5 +1,5 @@
 # Python-Image-Downloader
-A simple python script to scrape images from web.
+A simple python script to scrape images from web.\
 All images will be downloaded from stocksnap.io
 
 ## How to run: 
